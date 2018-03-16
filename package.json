@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "git@github.com:vincenthcui/hexo-deployer-qiniu.git",
   "author": "vincent.h.cui@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "hexo-util": "^0.6.3",
+    "qiniu": "^7.1.3"
+  }
 }
